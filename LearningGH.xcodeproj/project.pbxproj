@@ -56,8 +56,8 @@
 				AF851091281F36EA00605C72 /* LearningGHApp.swift */,
 				AF851093281F36EA00605C72 /* ContentView.swift */,
 				AF851095281F36EC00605C72 /* Assets.xcassets */,
-				AF851097281F36EC00605C72 /* Preview Content */,
 				AF85109F2820760300605C72 /* MyModel.swift */,
+				AF851097281F36EC00605C72 /* Preview Content */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
